@@ -1,0 +1,13 @@
+E:\Tugas Perkuliahan\Visual Studi\Tugas_Lab-8\Tugas_Lab-8\obj\Debug\netcoreapp3.1\Tugas_Lab-8.csprojAssemblyReference.cache
+E:\Tugas Perkuliahan\Visual Studi\Tugas_Lab-8\Tugas_Lab-8\obj\Debug\netcoreapp3.1\Tugas_Lab-8.csproj.CoreCompileInputs.cache
+E:\Tugas Perkuliahan\Visual Studi\Tugas_Lab-8\Tugas_Lab-8\obj\Debug\netcoreapp3.1\Tugas_Lab-8.AssemblyInfoInputs.cache
+E:\Tugas Perkuliahan\Visual Studi\Tugas_Lab-8\Tugas_Lab-8\obj\Debug\netcoreapp3.1\Tugas_Lab-8.AssemblyInfo.cs
+E:\Tugas Perkuliahan\Visual Studi\Tugas_Lab-8\Tugas_Lab-8\bin\Debug\netcoreapp3.1\Tugas_Lab-8.exe
+E:\Tugas Perkuliahan\Visual Studi\Tugas_Lab-8\Tugas_Lab-8\bin\Debug\netcoreapp3.1\Tugas_Lab-8.deps.json
+E:\Tugas Perkuliahan\Visual Studi\Tugas_Lab-8\Tugas_Lab-8\bin\Debug\netcoreapp3.1\Tugas_Lab-8.runtimeconfig.json
+E:\Tugas Perkuliahan\Visual Studi\Tugas_Lab-8\Tugas_Lab-8\bin\Debug\netcoreapp3.1\Tugas_Lab-8.runtimeconfig.dev.json
+E:\Tugas Perkuliahan\Visual Studi\Tugas_Lab-8\Tugas_Lab-8\bin\Debug\netcoreapp3.1\Tugas_Lab-8.dll
+E:\Tugas Perkuliahan\Visual Studi\Tugas_Lab-8\Tugas_Lab-8\bin\Debug\netcoreapp3.1\Tugas_Lab-8.pdb
+E:\Tugas Perkuliahan\Visual Studi\Tugas_Lab-8\Tugas_Lab-8\obj\Debug\netcoreapp3.1\Tugas_Lab-8.dll
+E:\Tugas Perkuliahan\Visual Studi\Tugas_Lab-8\Tugas_Lab-8\obj\Debug\netcoreapp3.1\Tugas_Lab-8.pdb
+E:\Tugas Perkuliahan\Visual Studi\Tugas_Lab-8\Tugas_Lab-8\obj\Debug\netcoreapp3.1\Tugas_Lab-8.genruntimeconfig.cache
